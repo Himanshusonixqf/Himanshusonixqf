@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Himanshusonixqf
-- 👀 I’m interested in backend development
+- 👀 I’m interested in website development
 - 🌱 I’m currently learning java programming 
 - 💞️ I’m looking to collaborate on learning new things
 - 
